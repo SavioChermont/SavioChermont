@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello World 👋
 
-<!--
-**SavioChermont/SavioChermont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Gosto desenvolver aplicações e programar,
+Técnico em Informática e apaixonado por tecnologias.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Estágiario em 2019 e atualmente procurando emprego
+- 🌱 Me aprofundando em Javascript | React.JS | Node.JS
+- 🤔 Procurando aumentar o conhecimento
+- 💬 Sobre mim: Gosto de estar por dentro das tecnlogias, 
+     curto jogar um Lolzinho, CS:GO, FIFA e jogar um fut nas horas vagas 😜
+- 📫 Entre em contato pelo Linkedln: www.linkedin.com/in/sávio-chermont ou Email: saviochwt@gmail.com
+- 💻 Minha stack: ReactJS, Node.js, React Native & Typescript
