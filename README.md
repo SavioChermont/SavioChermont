@@ -4,7 +4,7 @@ Gosto desenvolver aplicações e programar,
 Técnico em Informática e apaixonado por tecnologias.
 
 
-- 🔭 Estágiario em 2019 e atualmente desenvolvedor front-end na Agência M3
+- 🔭 Estágiario em 2019 no Cefet/RJ e atualmente desenvolvedor front-end na Agência M3
 - 🌱 Me aprofundando em Javascript | React.JS 
 - 🤔 Procurando aumentar o conhecimento
 - 💬 Sobre mim: Gosto de estar por dentro das tecnlogias, 
